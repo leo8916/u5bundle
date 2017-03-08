@@ -1,0 +1,18 @@
+ManifestFileVersion: 0
+CRC: 1121710146
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 03ca22e8c7889ca42b0c8de69d9d8ae6
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c65e2767630221ebf989e08e1652804b
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+Assets:
+- Assets/bfc243a3gw1fb252tej39j20la0lawl2.controller
+Dependencies: []

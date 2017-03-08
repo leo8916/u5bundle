@@ -1,0 +1,18 @@
+ManifestFileVersion: 0
+CRC: 142339655
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f51ecd7d8c03c428ac6f6ba9ff1a7d6f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9dea23ffc7e96552740e12d1ee5309d8
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/bfc243a3gw1fb252tej39j20la0lawl2.jpg
+Dependencies: []
